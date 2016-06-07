@@ -8,6 +8,7 @@ int main()
 
    int x = x * x;
    int y = y * y;
+   int z = z + z;
 
    return 0;
 }
