@@ -7,6 +7,7 @@ int main()
    cout << "Hello World!" << endl;
 
    int x = x * x;
+   int y = y * y;
 
    return 0;
 }
