@@ -26,14 +26,21 @@ class Feature
 {
       public:
             Feature();
-                  ~Feature();
-                        multiply(int a, int b);
-                           private:
-                                 int x;
-                                       int y;
+            ~Feature();
+            multiply(int a, int b);
+      private:
+            int x;
+            int y;
 };
 
     Status API Training Shop Blog About 
 
 
 ```
+
+% git add <filename> to stage file
+% git commit -m "comment" to commit to local repo
+% git push http://website.com to move changes from local repo to remote repo
+
+% git reset HEAD <filename> to unstage a file
+% git checkout -- <filename> to restore file from local repo
