@@ -10,6 +10,7 @@ int main()
    int y = y * y;
    int z = z + z;
    int a = a;
+   int b = b;
 
    return 0;
 }
