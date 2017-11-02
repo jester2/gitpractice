@@ -16,3 +16,5 @@ I needed a way to practice my git skills without mucking up a production reposit
 - What is staging?  How is that different between commiting and merging a project to the mainline repository?
 
 Uh oh, Jeremy says hi
+
+Hello, says Cesar
