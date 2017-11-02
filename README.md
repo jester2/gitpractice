@@ -15,3 +15,4 @@ I needed a way to practice my git skills without mucking up a production reposit
 - How much do I need to know about what other people are working on?  
 - What is staging?  How is that different between commiting and merging a project to the mainline repository?
 
+Uh oh, Jeremy says hi
